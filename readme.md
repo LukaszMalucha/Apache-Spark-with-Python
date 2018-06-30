@@ -47,3 +47,23 @@ Which movie is most popular. With broadcast function
 ###### Dataset:
 https://grouplens.org/datasets/movielens/
 
+
+### most-popular-superhero.py
+
+Which Marvel superhero has most comic occurences
+
+###### Dataset:
+/Marvel-Graph.txt
+/Marvel-Names.txt
+
+### degrees-of-separation.py
+
+Superhero social network analysis
+
+###### Dataset:
+/Marvel-Graph.txt
+/Marvel-Names.txt
+
+
+
+
