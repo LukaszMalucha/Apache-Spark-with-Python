@@ -65,5 +65,34 @@ Superhero social network analysis
 /Marvel-Names.txt
 
 
+### movie-similarities.py
+
+Item-based collaborative filtering - movie recommendation
 
 
+###### Dataset:
+https://grouplens.org/datasets/movielens/
+
+### spark-sql.py
+
+Spark SQL 
+
+
+###### Dataset:
+/fakefriends.csv
+
+### popular-movies-dataframe.py
+
+Spark SQL Dataframe object
+
+
+###### Dataset:
+https://grouplens.org/datasets/movielens/
+
+
+### spark-linear-regression.py
+
+Lienar Regression example
+
+###### Dataset:
+/regression.txt
